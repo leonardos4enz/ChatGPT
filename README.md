@@ -17,7 +17,8 @@ En la parte de la izquierda podrás ver hasta abajo la sección de Api Keys.
 
 ## 3. Librerias necesarias
 Abre una nueva carpeta para comenzar tu proyecto e instala la libreria de open sea con el siguiente comando: 
-<b>pip install opensea</b>
+
+-> <b>pip install openai</b>
 
 ## 4. Crea un archivo de python y copia el código. 
 ```python
