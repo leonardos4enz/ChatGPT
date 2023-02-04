@@ -44,6 +44,11 @@ response = completion.choices[0].text
 print(response)
 ```
 
+En la variable openai.api_key debes pegar tu api key así: 
+```
+openai.api_key = config.API_KEY = "TU API KEY"
+```
+
 ## 5. Dile algo
 Para hacer esto es necesario modificar la variable <b>prompt</b> y una vez que lo hagas ya esta casi todo listo!
 
